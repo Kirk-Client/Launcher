@@ -14,6 +14,6 @@ source distribution.
   Please email azul_openjdk@azul.com for further information.
 
   Include this version code in your email:
-  Zulu 8.96.0.19 d02bfb21-94d0-41f3-b584-e94b36b5b8e6
+  Zulu 8.96.0.205 b89161e7-ef7b-4cd5-9007-c3d5982b97e3
 
 To read more about Azul products visit https://www.azul.com/?r=zulu
