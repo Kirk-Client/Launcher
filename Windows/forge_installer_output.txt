@@ -1,8 +1,0 @@
-Setting up logger: C:\Users\itsly\AppData\Roaming\.kirk\KirkClient\forge-installer.jar.log
-JVM info: Oracle Corporation - 22.0.2 - 22.0.2+9-70
-java.net.preferIPv4Stack=true
-Found java version 22.0.2
-Extracting: /forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
-To:          C:\Users\itsly\AppData\Roaming\.kirk\KirkClient\.\forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
-File extracted successfully to forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
-You can delete this installer file now if you wish
