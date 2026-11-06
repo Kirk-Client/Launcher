@@ -1,0 +1,8 @@
+# Keep the full installer, update payload and generated aliases out of this repo.
+# The public download is the small KirkLauncher(version).exe bootstrap installer.
+/Kirk Launcher.exe
+/Kirk Launcher.payload.zip
+/KirkUpdate.exe
+/KirkLauncher.exe
+/KirkLauncher[0-9]*.exe
+/KirkLauncher-[0-9]*.exe
